@@ -46,7 +46,7 @@
 		"mocha": "10.6.0",
 		"eslint": "8.57.0",
 		"typescript": "5.4.3",
-		"@vscode/vsce": "2.24.0",
+		"@vscode/vsce": "2.31.1",
 		"@types/vscode": "^1.87.0",
 		"@vscode/test-electron": "^2.3.9",
 		"@vscode/debugadapter-testsupport": "1.65.0"
